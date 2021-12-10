@@ -1,0 +1,16 @@
+C:\Users\Robert\source\repos\PlaneTower\PlaneTower\obj\Debug\net5.0\PlaneTower.csproj.AssemblyReference.cache
+C:\Users\Robert\source\repos\PlaneTower\PlaneTower\obj\Debug\net5.0\PlaneTower.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Robert\source\repos\PlaneTower\PlaneTower\obj\Debug\net5.0\PlaneTower.AssemblyInfoInputs.cache
+C:\Users\Robert\source\repos\PlaneTower\PlaneTower\obj\Debug\net5.0\PlaneTower.AssemblyInfo.cs
+C:\Users\Robert\source\repos\PlaneTower\PlaneTower\obj\Debug\net5.0\PlaneTower.csproj.CoreCompileInputs.cache
+C:\Users\Robert\source\repos\PlaneTower\PlaneTower\bin\Debug\net5.0\PlaneTower.exe
+C:\Users\Robert\source\repos\PlaneTower\PlaneTower\bin\Debug\net5.0\PlaneTower.deps.json
+C:\Users\Robert\source\repos\PlaneTower\PlaneTower\bin\Debug\net5.0\PlaneTower.runtimeconfig.json
+C:\Users\Robert\source\repos\PlaneTower\PlaneTower\bin\Debug\net5.0\PlaneTower.runtimeconfig.dev.json
+C:\Users\Robert\source\repos\PlaneTower\PlaneTower\bin\Debug\net5.0\PlaneTower.dll
+C:\Users\Robert\source\repos\PlaneTower\PlaneTower\bin\Debug\net5.0\ref\PlaneTower.dll
+C:\Users\Robert\source\repos\PlaneTower\PlaneTower\bin\Debug\net5.0\PlaneTower.pdb
+C:\Users\Robert\source\repos\PlaneTower\PlaneTower\obj\Debug\net5.0\PlaneTower.dll
+C:\Users\Robert\source\repos\PlaneTower\PlaneTower\obj\Debug\net5.0\ref\PlaneTower.dll
+C:\Users\Robert\source\repos\PlaneTower\PlaneTower\obj\Debug\net5.0\PlaneTower.pdb
+C:\Users\Robert\source\repos\PlaneTower\PlaneTower\obj\Debug\net5.0\PlaneTower.genruntimeconfig.cache

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31605.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlaneTower", "PlaneTower\PlaneTower.csproj", "{3860CB86-F12D-4623-9730-DAB2EA4B928F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3860CB86-F12D-4623-9730-DAB2EA4B928F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3860CB86-F12D-4623-9730-DAB2EA4B928F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3860CB86-F12D-4623-9730-DAB2EA4B928F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3860CB86-F12D-4623-9730-DAB2EA4B928F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C1AB1033-5F93-4279-AAE3-E31BD161F824}
+	EndGlobalSection
+EndGlobal
